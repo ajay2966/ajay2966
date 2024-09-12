@@ -42,7 +42,7 @@
 
 <p align="left">I am a MERN developers and android app developer. I love programming, writing, speaking and traveling.<br><br>- 🌐 MERN Developer<br>-
 🚀 Crafting user-centric web experiences <br>-📱 Android App Developer<br>-
-🚀 Building innovative mobile solutions<br>- 📚 I'm currently learning apollographql.<br>- 📫 How to reach me  <a href="https://mailto:ajmadhpuriya1234@gmail.com" target="_blank"> rajveersimraiya@gmail.com </a></p>
+🚀 Building innovative mobile solutions<br>- 📚 I'm currently learning apollographql.<br>- 📫 How to reach me  <a href="https://mailto:ajmadhpuriya1234@gmail.com" target="_blank"> ajmadhpuriya1234@gmail.com </a></p>
 
 
 ###
